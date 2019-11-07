@@ -6,24 +6,26 @@
 }"
     </string>
     <string name="kotlin_detail">
-        Jetbrains社によって開発された言語。
-        Javaと完全互換で、なおかつ、Javaでは書きづらい部分が書きやすくなっている。
-        Androidで使われるほか、サーバーでも使われる。
+Jetbrains社によって開発された言語。
+Javaと完全互換で、なおかつ、Javaでは書きづらい部分が書きやすくなっている。
+Androidで使われるほか、サーバーでも使われる。
     </string>
     <string name="python_hello">
         print(\"Hello World\")
     </string>
     <string name="python_detail">
-        シンプルでわかりやすいことから人気の言語。
-        日本では科学計算や機械学習で使われることが多いが、Instagramなどでも使われている。
+シンプルでわかりやすいことから人気の言語。
+2系と3系でガラッと変わったらしい。
+日本では科学計算や機械学習で使われることが多いが、Instagramなどでも使われている。
     </string>
     <string name="js_hello">
         console.log(\'hello world!\');
     </string>
     <string name="js_detail">
-        ウェブページに動きをつけるために作られた。\n
-        Javaとは全くの別物。\n
-        近年はNode.jsのおかげでWebサーバーでも使われるようになった。
+ウェブページに動きをつけるために作られた。
+Javaとは全くの別物。
+Node.jsのおかげでWebサーバーでも使われるようになった。
+近年はAltJSというものが流行ってたりする。
     </string>
     <string name="cpp_hello">
 "#include &lt;iostream&gt;
@@ -32,8 +34,8 @@ int main() {
 }"
     </string>
     <string name="cpp_detail">
-        C言語にオブジェクト指向を付与したもの。
-        書けば書くほど難しい言語。
-        OSの開発やゲーム開発などでも使われている。
+C言語にオブジェクト指向を付与したもの。
+書けば書くほど難しい言語。
+OSの開発やゲーム開発などでも使われている。
     </string>
 </resources>
